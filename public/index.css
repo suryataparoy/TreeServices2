@@ -20,6 +20,7 @@ body {
 	position: relative;
 }
 nav {
+    text-decoration : none;
     background-color: #00001a;
     opacity: 0.7;
     position: relative;
@@ -28,6 +29,7 @@ nav {
 }
 nav li{	float: right;
 	top: 7vh;
+	margin-top:3%;
 }
 nav li a{
 	color: white;
@@ -46,6 +48,7 @@ nav li a:hover{
 	color: white;
 	margin-left: 5%;
 	top: 10vh;
+	margin-top:3%;
 }
 
 
@@ -373,6 +376,7 @@ background-color: #17202A;
 	display: inline-block;
 	position: relative;
 }
+.garden p{ overflow: none;}
 .serviceshead{
 	font-size: 270%;
 	font-weight: normal;
