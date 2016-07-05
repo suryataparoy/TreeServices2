@@ -183,7 +183,7 @@ background-image: url(images/map1.jpg);
 }
 
 #overlay p{
-	font-size: 120%;
+	font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
 	float: right;
 	margin-right: 5%;
@@ -375,7 +375,7 @@ background-color: #17202A;
 	display: inline-block;
 	position: relative;
 }
-.garden p{ overflow: none;}
+.garden p{ overflow: hidden;}
 .serviceshead{
 	font-size: 250%;
 	font-weight: normal;
