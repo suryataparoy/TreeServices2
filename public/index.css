@@ -188,14 +188,14 @@ background-image: url(images/map1.jpg);
 	float: right;
 	margin-right: 2%;
 	font-weight: bold;
-	margin-top:10%;
+	padding-top:10%;
 }
 #overlay h1{
 font-family: 'PT Sans Narrow', sans-serif;
 font-size: 320%;
 font-weight: normal;
 margin-left: 5%;
-margin-top:10%;
+padding-top:10%;
 
 }
 .cont{
