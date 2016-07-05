@@ -186,16 +186,14 @@ background-image: url(images/map1.jpg);
 	font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
 	float: right;
-	margin-right: 2%;
+	margin-right: 3%;
 	font-weight: bold;
-	top:20%;
 }
 #overlay h1{
 font-family: 'PT Sans Narrow', sans-serif;
 font-size: 320%;
 font-weight: normal;
 margin-left: 5%;
-top:2%;
 
 }
 .cont{
