@@ -29,7 +29,7 @@ nav {
 }
 nav li{	float: right;
 	top: 7vh;
-	margin-top:3%;
+	margin-top:4%;
 }
 nav li a{
 	color: white;
@@ -93,7 +93,7 @@ h1{
 }
 .ourworkh{
 	font-weight: normal;
-	font-size: 450%;
+	font-size: 400%;
 	font-family: 'PT Sans Narrow', sans-serif;
 }
 .desp{
@@ -187,7 +187,6 @@ background-image: url(images/map1.jpg);
 	font-family: 'Open Sans', sans-serif;
 	float: right;
 	margin-right: 5%;
-	margin-top: 5%;
 	font-weight: bold;
 }
 #overlay h1{
@@ -326,7 +325,7 @@ background-color: #17202A;
 }
 
  .blocks{
- 	font-size: 400%;
+ 	font-size: 380%;
  	font-weight: normal;
  	font-family: 'PT Sans Narrow', sans-serif;
 
@@ -378,7 +377,7 @@ background-color: #17202A;
 }
 .garden p{ overflow: none;}
 .serviceshead{
-	font-size: 270%;
+	font-size: 250%;
 	font-weight: normal;
 	text-align: left;
 	font-family: 'PT Sans Narrow', sans-serif;
